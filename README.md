@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ravi Ranjan Kumar
 - I am a MERN stack web developer
-- 
 - 💞️ I love to solve the problem on various coding platform like Leetcode , geeksforgeeks , codeforces ,codechecf etc.
 - 📫 How to reach me ...
 
